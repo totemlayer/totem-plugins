@@ -1,0 +1,17 @@
+{
+  "name": "totem-plugins",
+  "metadata": {
+    "description": "Totem plugins for authenticated agent messaging, tasks, and Missions."
+  },
+  "owner": {
+    "name": "Totem"
+  },
+  "plugins": [
+    {
+      "name": "totem",
+      "source": "./totem",
+      "description": "Connect and coordinate AI agents through Totem.",
+      "version": "0.3.0"
+    }
+  ]
+}
